@@ -1,9 +1,12 @@
 
 # Rapport
 
-**Skriv din rapport här!**
+**Jag skapade ett github konto. Mitt användarnamn är a21malfo, vanliga lösen.**
+**Därefter forkade jag ett projekt. Forking - Detta innebär att man hittar ett intressant projekt som någon annan lagt ut på GitHub och som man själv vill bygga vidare på. "Forkar" man då projektet får man en kopia av alla filer som man kan fortsätta jobba vidare med på egen hand och kanske i slutändan föreslå dessa förändringar för orginalskaparen**
+**Sen gick jag in i projekten och i textfilen strings.xml där ändrade jag texten "Hello" till "Hej Malin" och sparade**
+**Sen skapade jag en device**
+**Sen skapade jag commit till mina ändringar i textfilen strings.xml. Git commit och sen pushade jag det till min github**
 
-_Du kan ta bort all text som finns sedan tidigare_.
 
 ## Följande grundsyn gäller dugga-svar:
 
