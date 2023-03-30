@@ -30,5 +30,5 @@ Den programkod som ändrades:
 
 
 ![](Screenshot_20230329_114929.png)
-## Figur 1 (Device)
+*Figur 1 (Device)*
 
