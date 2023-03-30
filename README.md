@@ -20,8 +20,8 @@ Efter det tog jag en screen capture på min device och kopierade namnet till bil
 Den programkod som ändrades: 
 
 ```
-resources>
-    <string name="app_name">Hej Malin!</string>
+<resources>
+    <string name="app_name">Malins project</string>
 </resources>
 
 ```
