@@ -1,11 +1,11 @@
 
 # Rapport
 
-**Jag skapade ett github konto. Mitt användarnamn är a21malfo, vanliga lösen.**
-**Därefter forkade jag ett projekt. Forking - Detta innebär att man hittar ett intressant projekt som någon annan lagt ut på GitHub och som man själv vill bygga vidare på. "Forkar" man då projektet får man en kopia av alla filer som man kan fortsätta jobba vidare med på egen hand och kanske i slutändan föreslå dessa förändringar för orginalskaparen**
-**Sen gick jag in i projekten och i textfilen strings.xml där ändrade jag texten "Hello" till "Hej Malin" och sparade**
-**Sen skapade jag en device**
-**Sen skapade jag commit till mina ändringar i textfilen strings.xml. Git commit och sen pushade jag det till min github**
+**Först skapade jag ett github konto med användarnamnn a21malfo.**
+**Sedan installerade jag Android Studio, som är ett IDE verktyg och skapade en device i A.S**
+**Därefter forkade jag ett projekt. Forking - dvs ett projekt som någon annan lagt ut på GitHub och som man själv vill bygga vidare på. Jag "forkar" projektet och fick då en kopia av alla filer.**
+**Sen gick jag in i projekten och i textfilen strings.xml ändrade jag texten "Hello" till "Hej Malin" och sparade**
+**Sen skapade jag "commit" till mina ändringar i textfilen strings.xml samt "pushade" till github.**
 
 
 ## Följande grundsyn gäller dugga-svar:
@@ -19,20 +19,12 @@
 Programkod ska se ut som exemplet nedan. Koden måste vara korrekt indenterad då den blir lättare att läsa vilket gör det lättare att hitta syntaktiska fel.
 
 ```
-function errorCallback(error) {
-    switch(error.code) {
-        case error.PERMISSION_DENIED:
-            // Geolocation API stöds inte, gör något
-            break;
-        case error.POSITION_UNAVAILABLE:
-            // Misslyckat positionsanrop, gör något
-            break;
-        case error.UNKNOWN_ERROR:
-            // Okänt fel, gör något
-            break;
-    }
-}
+resources>
+    <string name="app_name">Hej Malin!</string>
+</resources>
+
 ```
+
 
 Bilder läggs i samma mapp som markdown-filen.
 
